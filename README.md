@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/anmol-can-code/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anmol-can-code/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anmol-can-code/leetcode/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/anmol-can-code/leetcode/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/anmol-can-code/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
