@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/anmol-can-code/leetcode/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/anmol-can-code/leetcode/tree/master/0904-fruit-into-baskets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anmol-can-code/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anmol-can-code/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anmol-can-code/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/anmol-can-code/leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/anmol-can-code/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/anmol-can-code/leetcode/tree/master/0904-fruit-into-baskets) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anmol-can-code/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Matrix
 |  |
 | ------- |
@@ -73,4 +75,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/anmol-can-code/leetcode/tree/master/0904-fruit-into-baskets) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anmol-can-code/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
