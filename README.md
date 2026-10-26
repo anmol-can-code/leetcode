@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/anmol-can-code/leetcode/tree/master/0015-3sum) |
 | [0073-set-matrix-zeroes](https://github.com/anmol-can-code/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0152-maximum-product-subarray](https://github.com/anmol-can-code/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/anmol-can-code/leetcode/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/anmol-can-code/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/anmol-can-code/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anmol-can-code/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/anmol-can-code/leetcode/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anmol-can-code/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/anmol-can-code/leetcode/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
