@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/anmol-can-code/leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/anmol-can-code/leetcode/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/anmol-can-code/leetcode/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anmol-can-code/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -86,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/anmol-can-code/leetcode/tree/master/0152-maximum-product-subarray) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/anmol-can-code/leetcode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/anmol-can-code/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
