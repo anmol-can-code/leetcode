@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/anmol-can-code/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/anmol-can-code/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/anmol-can-code/leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/anmol-can-code/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/anmol-can-code/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anmol-can-code/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anmol-can-code/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/anmol-can-code/leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/anmol-can-code/leetcode/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/anmol-can-code/leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/anmol-can-code/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anmol-can-code/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anmol-can-code/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Prefix Sum
