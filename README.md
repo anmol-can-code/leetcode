@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/anmol-can-code/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anmol-can-code/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anmol-can-code/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/anmol-can-code/leetcode/tree/master/0020-valid-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/anmol-can-code/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/anmol-can-code/leetcode/tree/master/0069-sqrtx) |
+| [1903-largest-odd-number-in-string](https://github.com/anmol-can-code/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Newton's Method
 |  |
 | ------- |
