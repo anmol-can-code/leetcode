@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anmol-can-code/leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/anmol-can-code/leetcode/tree/master/0242-valid-anagram) |
 | [1903-largest-odd-number-in-string](https://github.com/anmol-can-code/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anmol-can-code/leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/anmol-can-code/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/anmol-can-code/leetcode/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anmol-can-code/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anmol-can-code/leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Matrix
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/anmol-can-code/leetcode/tree/master/0229-majority-element-ii) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anmol-can-code/leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
