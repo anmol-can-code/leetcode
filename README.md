@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anmol-can-code/leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/anmol-can-code/leetcode/tree/master/0242-valid-anagram) |
 | [1903-largest-odd-number-in-string](https://github.com/anmol-can-code/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3340-check-balanced-string](https://github.com/anmol-can-code/leetcode/tree/master/3340-check-balanced-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anmol-can-code/leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
