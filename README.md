@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/anmol-can-code/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/anmol-can-code/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/anmol-can-code/leetcode/tree/master/0704-binary-search) |
+| [0848-shifting-letters](https://github.com/anmol-can-code/leetcode/tree/master/0848-shifting-letters) |
 | [0875-koko-eating-bananas](https://github.com/anmol-can-code/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/anmol-can-code/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anmol-can-code/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anmol-can-code/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/anmol-can-code/leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/anmol-can-code/leetcode/tree/master/0242-valid-anagram) |
+| [0848-shifting-letters](https://github.com/anmol-can-code/leetcode/tree/master/0848-shifting-letters) |
 | [1903-largest-odd-number-in-string](https://github.com/anmol-can-code/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3340-check-balanced-string](https://github.com/anmol-can-code/leetcode/tree/master/3340-check-balanced-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anmol-can-code/leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anmol-can-code/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/anmol-can-code/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0848-shifting-letters](https://github.com/anmol-can-code/leetcode/tree/master/0848-shifting-letters) |
 ## Sliding Window
 |  |
 | ------- |
