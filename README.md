@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/anmol-can-code/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0152-maximum-product-subarray](https://github.com/anmol-can-code/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/anmol-can-code/leetcode/tree/master/0162-find-peak-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/anmol-can-code/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/anmol-can-code/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/anmol-can-code/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/anmol-can-code/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anmol-can-code/leetcode/tree/master/0015-3sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/anmol-can-code/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/anmol-can-code/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anmol-can-code/leetcode/tree/master/0242-valid-anagram) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anmol-can-code/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -122,4 +124,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/anmol-can-code/leetcode/tree/master/0197-rising-temperature) |
 | [1068-product-sales-analysis-i](https://github.com/anmol-can-code/leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/anmol-can-code/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/anmol-can-code/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/anmol-can-code/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/anmol-can-code/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
