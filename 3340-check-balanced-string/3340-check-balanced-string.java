@@ -1,15 +1,16 @@
 class Solution {
     public boolean isBalanced(String num) {
+        int even=0;
         int odd =0;
-        int even =0;
         for(int i =0;i<num.length();i++){
-            if((i&1)==0){
-                odd+=(int)num.charAt(i)-(int)'0';
+            if(i%2!=1){
+                even +=num.charAt(i)-'0';
+
             }
             else{
-                even+=(int)num.charAt(i)-(int)'0';
+                odd += num.charAt(i)-'0';
             }
         }
-    return (odd==even);    
+    return (even==odd);    
     }
 }
